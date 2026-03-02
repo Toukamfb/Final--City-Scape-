@@ -63,6 +63,17 @@ body {
     }
 }
 
+footer a {
+    font-size:  160%;
+    text-decoration: none;
+    color: #546880;
+  }
+
+  footer a:hover {
+    color: blue;
+    text-shadow: 0 0 5px white;
+  } 
+
  footer {
     background-color: #f7a04d;
     padding: 1em;
